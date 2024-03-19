@@ -24,3 +24,6 @@ if st.checkbox("Check my location"):
 if True:
     x = streamlit_js_eval(js_expressions='window.innerWidth', key='WIDTH',  want_output = True,)                
     st.write(f"Width is {x}")
+
+# 19.0485361,83.8342163
+# 19.0485703,83.8344593
